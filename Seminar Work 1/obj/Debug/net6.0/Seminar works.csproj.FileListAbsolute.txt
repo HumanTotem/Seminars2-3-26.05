@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\bin\Debug\net6.0\Seminar works.exe
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\bin\Debug\net6.0\Seminar works.deps.json
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\bin\Debug\net6.0\Seminar works.runtimeconfig.json
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\bin\Debug\net6.0\Seminar works.dll
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\bin\Debug\net6.0\Seminar works.pdb
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.AssemblyInfo.cs
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.dll
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\refint\Seminar works.dll
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.pdb
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\Seminar works.genruntimeconfig.cache
+C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Seminar works\obj\Debug\net6.0\ref\Seminar works.dll
