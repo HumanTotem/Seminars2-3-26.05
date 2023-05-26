@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8eEwFflmid16YDZV62oAY/DLpholuLE3MG3tlltA6HOsK2S5cgrQO0TX8HaJHQLsM6kQzJNpg4KnNWUpZ7N+ZQ==",
+  "dgSpecHash": "2ndHQuhPNFIFSBQnOh3+H6SRc/2FkyD4E/1u+qJAdwjhr6egu2nhoTeB51mkD+u+dgtBKGOrFECdBet6f3mOGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\C sharp Seminar2\\Seminar2\\Homework\\Task2\\Task2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Seminar2\\Seminar2\\Homework\\Task 2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
