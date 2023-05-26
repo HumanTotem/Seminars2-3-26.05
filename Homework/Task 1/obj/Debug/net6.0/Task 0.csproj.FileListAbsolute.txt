@@ -13,3 +13,18 @@ C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Homework\Task 0\obj\Debug\net6.0
 C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Homework\Task 0\obj\Debug\net6.0\Task 0.pdb
 C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Homework\Task 0\obj\Debug\net6.0\Task 0.genruntimeconfig.cache
 C:\Users\user\Desktop\C sharp Seminar2\Seminar2\Homework\Task 0\obj\Debug\net6.0\ref\Task 0.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\bin\Debug\net6.0\Task 0.exe
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\bin\Debug\net6.0\Task 0.deps.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\bin\Debug\net6.0\Task 0.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\bin\Debug\net6.0\Task 0.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\bin\Debug\net6.0\Task 0.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\refint\Task 0.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\Task 0.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 1\obj\Debug\net6.0\ref\Task 0.dll
