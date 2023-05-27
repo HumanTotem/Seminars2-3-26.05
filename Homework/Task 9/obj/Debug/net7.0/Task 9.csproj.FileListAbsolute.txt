@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\bin\Debug\net7.0\Task 9.exe
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\bin\Debug\net7.0\Task 9.deps.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\bin\Debug\net7.0\Task 9.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\bin\Debug\net7.0\Task 9.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\bin\Debug\net7.0\Task 9.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\refint\Task 9.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\Task 9.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Homework\Task 9\obj\Debug\net7.0\ref\Task 9.dll
