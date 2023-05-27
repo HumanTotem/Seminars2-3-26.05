@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\bin\Debug\net7.0\Lection 1.exe
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\bin\Debug\net7.0\Lection 1.deps.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\bin\Debug\net7.0\Lection 1.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\bin\Debug\net7.0\Lection 1.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\bin\Debug\net7.0\Lection 1.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\refint\Lection 1.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\Lection 1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Lections\Lection 1\obj\Debug\net7.0\ref\Lection 1.dll
