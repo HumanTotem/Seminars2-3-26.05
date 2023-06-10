@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\bin\Debug\net7.0\Seminar Work 21.exe
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\bin\Debug\net7.0\Seminar Work 21.deps.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\bin\Debug\net7.0\Seminar Work 21.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\bin\Debug\net7.0\Seminar Work 21.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\bin\Debug\net7.0\Seminar Work 21.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\refint\Seminar Work 21.dll
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.pdb
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\Seminar Work 21.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar2\Seminar2\Seminar Work 21\obj\Debug\net7.0\ref\Seminar Work 21.dll
